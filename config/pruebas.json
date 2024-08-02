@@ -1,0 +1,409 @@
+{
+    "TotalEventos": {
+        "duration": 18849,
+        "groups_count": 43,
+        "speeding_max": 26.72
+    },
+    "DatosEventos": [
+        {
+            "duration": 880,
+            "groups_count": 13,
+            "speeding_max": null,
+            "group_value": "idling",
+            "infoEventsType": [
+                {
+                    "sensors_report_types": [
+                        "events",
+                        "driver_events"
+                    ],
+                    "analyzer_state_type": "idling",
+                    "analyzer_state_name": "Inactividad"
+                }
+            ],
+            "items": [
+                {
+                    "equipment_id": 79204,
+                    "group_id": "37397b798b46f85516dd74a7fb3a3cb8",
+                    "group_type": "bunch",
+                    "group_value": "2023-12-14",
+                    "id": "9f98bd8384fe5053f85065614bd65751",
+                    "items": [
+                        {
+                            "equipment_id": 79204,
+                            "group_id": "9f98bd8384fe5053f85065614bd65751",
+                            "group_type": "state",
+                            "group_value": "87069_33_20231214181357",
+                            "id": "82726fb4b86ea3bd2635636f93f03ffe",
+                            "items": [],
+                            "metrics": {
+                                "duration": 110,
+                                "end_time": "2023-12-14 18:15:47",
+                                "groups_count": 1,
+                                "location": {
+                                    "lat": 19.068916,
+                                    "lon": -98.22043
+                                },
+                                "posted_speed_limit": null,
+                                "speeding_max": null,
+                                "state_time_max": "2023-12-14 18:13:57",
+                                "state_time_max_or_end_time": "2023-12-14 18:15:47",
+                                "state_time_min": "2023-12-14 18:13:57"
+                            },
+                            "state_id": "87069_33_20231214181357",
+                            "state_type_and_input_index": "idling_nil_nil",
+                            "time": "2023-12-14 12:13:57"
+                        },
+                        {
+                            "equipment_id": 79204,
+                            "group_id": "9f98bd8384fe5053f85065614bd65751",
+                            "group_type": "state",
+                            "group_value": "87069_33_20231214182315",
+                            "id": "c78495596e25811a9ec3df52cf903b9d",
+                            "items": [],
+                            "metrics": {
+                                "duration": 25,
+                                "end_time": "2023-12-14 18:23:40",
+                                "groups_count": 1,
+                                "location": {
+                                    "lat": 19.079498,
+                                    "lon": -98.204155
+                                },
+                                "posted_speed_limit": null,
+                                "speeding_max": null,
+                                "state_time_max": "2023-12-14 18:23:15",
+                                "state_time_max_or_end_time": "2023-12-14 18:23:40",
+                                "state_time_min": "2023-12-14 18:23:15"
+                            },
+                            "state_id": "87069_33_20231214182315",
+                            "state_type_and_input_index": "idling_nil_nil",
+                            "time": "2023-12-14 12:23:15"
+                        }
+                    ],
+                    "metrics": {
+                        "duration": 404,
+                        "groups_count": 7,
+                        "speeding_max": null
+                    },
+                    "state_type_and_input_index": "idling_nil_nil",
+                    "time": "2023-12-14 17:45:43"
+                },
+                {
+                    "equipment_id": 79204,
+                    "group_id": "37397b798b46f85516dd74a7fb3a3cb8",
+                    "group_type": "bunch",
+                    "group_value": "2023-12-15",
+                    "id": "31651a78daaf2416e360b78f96c10a23",
+                    "items": [
+                        {
+                            "equipment_id": 79204,
+                            "group_id": "31651a78daaf2416e360b78f96c10a23",
+                            "group_type": "state",
+                            "group_value": "87069_33_20231215175158",
+                            "id": "39ae06a3bf72a698fb67356b2d04306f",
+                            "items": [],
+                            "metrics": {
+                                "duration": 79,
+                                "end_time": "2023-12-15 17:53:17",
+                                "groups_count": 1,
+                                "location": {
+                                    "lat": 19.078876,
+                                    "lon": -98.20355
+                                },
+                                "posted_speed_limit": null,
+                                "speeding_max": null,
+                                "state_time_max": "2023-12-15 17:51:58",
+                                "state_time_max_or_end_time": "2023-12-15 17:53:17",
+                                "state_time_min": "2023-12-15 17:51:58"
+                            },
+                            "state_id": "87069_33_20231215175158",
+                            "state_type_and_input_index": "idling_nil_nil",
+                            "time": "2023-12-15 11:51:58"
+                        },
+                        {
+                            "equipment_id": 79204,
+                            "group_id": "31651a78daaf2416e360b78f96c10a23",
+                            "group_type": "state",
+                            "group_value": "87069_33_20231215195426",
+                            "id": "59bcfb0578a2a8a59cec7813485ba678",
+                            "items": [],
+                            "metrics": {
+                                "duration": 115,
+                                "end_time": "2023-12-15 19:56:21",
+                                "groups_count": 1,
+                                "location": {
+                                    "lat": 19.06884,
+                                    "lon": -98.22043
+                                },
+                                "posted_speed_limit": null,
+                                "speeding_max": null,
+                                "state_time_max": "2023-12-15 19:54:26",
+                                "state_time_max_or_end_time": "2023-12-15 19:56:21",
+                                "state_time_min": "2023-12-15 19:54:26"
+                            },
+                            "state_id": "87069_33_20231215195426",
+                            "state_type_and_input_index": "idling_nil_nil",
+                            "time": "2023-12-15 13:54:26"
+                        },
+                        {
+                            "equipment_id": 79204,
+                            "group_id": "31651a78daaf2416e360b78f96c10a23",
+                            "group_type": "state",
+                            "group_value": "87069_33_20231215195833",
+                            "id": "c7e6317bf3e339d02bcd9352a4c6f097",
+                            "items": [],
+                            "metrics": {
+                                "duration": 53,
+                                "end_time": "2023-12-15 19:59:26",
+                                "groups_count": 1,
+                                "location": {
+                                    "lat": 19.074154,
+                                    "lon": -98.22346
+                                },
+                                "posted_speed_limit": null,
+                                "speeding_max": null,
+                                "state_time_max": "2023-12-15 19:58:33",
+                                "state_time_max_or_end_time": "2023-12-15 19:59:26",
+                                "state_time_min": "2023-12-15 19:58:33"
+                            },
+                            "state_id": "87069_33_20231215195833",
+                            "state_type_and_input_index": "idling_nil_nil",
+                            "time": "2023-12-15 13:58:33"
+                        },
+                        {
+                            "equipment_id": 79204,
+                            "group_id": "31651a78daaf2416e360b78f96c10a23",
+                            "group_type": "state",
+                            "group_value": "87069_33_20231215201830",
+                            "id": "66ca24e9312c1fcf19dcd51c6074ec4d",
+                            "items": [],
+                            "metrics": {
+                                "duration": 112,
+                                "end_time": "2023-12-15 20:20:22",
+                                "groups_count": 1,
+                                "location": {
+                                    "lat": 19.1389,
+                                    "lon": -98.26696
+                                },
+                                "posted_speed_limit": null,
+                                "speeding_max": null,
+                                "state_time_max": "2023-12-15 20:18:30",
+                                "state_time_max_or_end_time": "2023-12-15 20:20:22",
+                                "state_time_min": "2023-12-15 20:18:30"
+                            },
+                            "state_id": "87069_33_20231215201830",
+                            "state_type_and_input_index": "idling_nil_nil",
+                            "time": "2023-12-15 14:18:30"
+                        },
+                        {
+                            "equipment_id": 79204,
+                            "group_id": "31651a78daaf2416e360b78f96c10a23",
+                            "group_type": "state",
+                            "group_value": "87069_33_20231215203607",
+                            "id": "3fe8a2ea34835216a82948d76da97df7",
+                            "items": [],
+                            "metrics": {
+                                "duration": 66,
+                                "end_time": "2023-12-15 20:37:13",
+                                "groups_count": 1,
+                                "location": {
+                                    "lat": 19.080782,
+                                    "lon": -98.228355
+                                },
+                                "posted_speed_limit": null,
+                                "speeding_max": null,
+                                "state_time_max": "2023-12-15 20:36:07",
+                                "state_time_max_or_end_time": "2023-12-15 20:37:13",
+                                "state_time_min": "2023-12-15 20:36:07"
+                            },
+                            "state_id": "87069_33_20231215203607",
+                            "state_type_and_input_index": "idling_nil_nil",
+                            "time": "2023-12-15 14:36:07"
+                        },
+                        {
+                            "equipment_id": 79204,
+                            "group_id": "31651a78daaf2416e360b78f96c10a23",
+                            "group_type": "state",
+                            "group_value": "87069_33_20231215211714",
+                            "id": "af727c670a1cf3e6982d9dadbd30c873",
+                            "items": [],
+                            "metrics": {
+                                "duration": 51,
+                                "end_time": "2023-12-15 21:18:05",
+                                "groups_count": 1,
+                                "location": {
+                                    "lat": 19.079287,
+                                    "lon": -98.203964
+                                },
+                                "posted_speed_limit": null,
+                                "speeding_max": null,
+                                "state_time_max": "2023-12-15 21:17:14",
+                                "state_time_max_or_end_time": "2023-12-15 21:18:05",
+                                "state_time_min": "2023-12-15 21:17:14"
+                            },
+                            "state_id": "87069_33_20231215211714",
+                            "state_type_and_input_index": "idling_nil_nil",
+                            "time": "2023-12-15 15:17:14"
+                        }
+                    ],
+                    "metrics": {
+                        "duration": 476,
+                        "groups_count": 6,
+                        "speeding_max": null
+                    },
+                    "state_type_and_input_index": "idling_nil_nil",
+                    "time": "2023-12-15 15:17:14"
+                }
+            ]
+        },
+        {
+            "duration": 17969,
+            "groups_count": 30,
+            "speeding_max": 26.72,
+            "group_value": "trip",
+            "infoEventsType": [
+                {
+                    "sensors_report_types": [
+                        "events",
+                        "driver_events"
+                    ],
+                    "analyzer_state_type": "trip",
+                    "analyzer_state_name": "Ignición"
+                }
+            ],
+            "items": [
+                {
+                    "equipment_id": 79204,
+                    "group_id": "2af9c69c4be0aa61d844f179b3a60058",
+                    "group_type": "bunch",
+                    "group_value": "2023-12-14",
+                    "id": "6e5803b4b53ceb767921a365e78b051c",
+                    "items": [
+                        {
+                            "equipment_id": 79204,
+                            "group_id": "6e5803b4b53ceb767921a365e78b051c",
+                            "group_type": "state",
+                            "group_value": "87069_1_20231214150721",
+                            "id": "8256510b7ad89c76ae5a7e3f7cbc1ac2",
+                            "items": [],
+                            "metrics": {
+                                "duration": 117,
+                                "end_time": "2023-12-14 15:09:18",
+                                "groups_count": 1,
+                                "location": {
+                                    "lat": 19.079044,
+                                    "lon": -98.20386
+                                },
+                                "posted_speed_limit": null,
+                                "speeding_max": 2.75,
+                                "state_time_max": "2023-12-14 15:07:21",
+                                "state_time_max_or_end_time": "2023-12-14 15:09:18",
+                                "state_time_min": "2023-12-14 15:07:21"
+                            },
+                            "state_id": "87069_1_20231214150721",
+                            "state_type_and_input_index": "trip_nil_nil",
+                            "time": "2023-12-14 09:07:21"
+                        },
+                        {
+                            "equipment_id": 79204,
+                            "group_id": "6e5803b4b53ceb767921a365e78b051c",
+                            "group_type": "state",
+                            "group_value": "87069_1_20231214152222",
+                            "id": "78e0f10c144ae70cb89a43db1ecc6b56",
+                            "items": [],
+                            "metrics": {
+                                "duration": 351,
+                                "end_time": "2023-12-14 15:28:13",
+                                "groups_count": 1,
+                                "location": {
+                                    "lat": 19.068916,
+                                    "lon": -98.220406
+                                },
+                                "posted_speed_limit": null,
+                                "speeding_max": 20.28,
+                                "state_time_max": "2023-12-14 15:22:22",
+                                "state_time_max_or_end_time": "2023-12-14 15:28:13",
+                                "state_time_min": "2023-12-14 15:22:22"
+                            },
+                            "state_id": "87069_1_20231214152222",
+                            "state_type_and_input_index": "trip_nil_nil",
+                            "time": "2023-12-14 09:22:22"
+                        }
+                    ],
+                    "metrics": {
+                        "duration": 12261,
+                        "groups_count": 19,
+                        "speeding_max": 26.72
+                    },
+                    "state_type_and_input_index": "trip_nil_nil",
+                    "time": "2023-12-14 15:23:47"
+                },
+                {
+                    "equipment_id": 79204,
+                    "group_id": "2af9c69c4be0aa61d844f179b3a60058",
+                    "group_type": "bunch",
+                    "group_value": "2023-12-15",
+                    "id": "aed9719998011f45872f9bc01eb164f2",
+                    "items": [
+                        {
+                            "equipment_id": 79204,
+                            "group_id": "aed9719998011f45872f9bc01eb164f2",
+                            "group_type": "state",
+                            "group_value": "87069_1_20231215175044",
+                            "id": "a2389c48d48cf38077ecf7fd64a4415d",
+                            "items": [],
+                            "metrics": {
+                                "duration": 153,
+                                "end_time": "2023-12-15 17:53:17",
+                                "groups_count": 1,
+                                "location": {
+                                    "lat": 19.079054,
+                                    "lon": -98.20386
+                                },
+                                "posted_speed_limit": null,
+                                "speeding_max": 1.31,
+                                "state_time_max": "2023-12-15 17:50:44",
+                                "state_time_max_or_end_time": "2023-12-15 17:53:17",
+                                "state_time_min": "2023-12-15 17:50:44"
+                            },
+                            "state_id": "87069_1_20231215175044",
+                            "state_type_and_input_index": "trip_nil_nil",
+                            "time": "2023-12-15 11:50:44"
+                        },
+                        {
+                            "equipment_id": 79204,
+                            "group_id": "aed9719998011f45872f9bc01eb164f2",
+                            "group_type": "state",
+                            "group_value": "87069_1_20231215175755",
+                            "id": "3719617184ecfa0b7c032d0cd28e5bd2",
+                            "items": [],
+                            "metrics": {
+                                "duration": 342,
+                                "end_time": "2023-12-15 18:03:37",
+                                "groups_count": 1,
+                                "location": {
+                                    "lat": 19.084288,
+                                    "lon": -98.20066
+                                },
+                                "posted_speed_limit": null,
+                                "speeding_max": 5.44,
+                                "state_time_max": "2023-12-15 18:03:37",
+                                "state_time_max_or_end_time": "2023-12-15 18:03:37",
+                                "state_time_min": "2023-12-15 17:57:55"
+                            },
+                            "state_id": "87069_1_20231215175755",
+                            "state_type_and_input_index": "trip_nil_nil",
+                            "time": "2023-12-15 11:57:55"
+                        }
+                    ],
+                    "metrics": {
+                        "duration": 5708,
+                        "groups_count": 11,
+                        "speeding_max": 25.53
+                    },
+                    "state_type_and_input_index": "trip_nil_nil",
+                    "time": "2023-12-15 12:16:44"
+                }
+            ]
+        }
+    ]
+}
